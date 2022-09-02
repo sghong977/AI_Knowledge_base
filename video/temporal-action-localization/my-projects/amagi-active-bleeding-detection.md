@@ -1,3 +1,7 @@
+---
+description: 깃허브 페이지를 긁어왔음
+---
+
 # AMAGI: Active Bleeding Detection
 
 **My github page**: https://sghong977.github.io/bleeding/
