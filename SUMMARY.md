@@ -10,7 +10,9 @@
   * [My Projects](image/segmentation/my-projects.md)
 * [Object Detection](image/object-detection.md)
 * [Optical Character Recognition](image/optical-character-recognition/README.md)
-  * [관련 지식](image/optical-character-recognition/undefined.md)
+  * [관련 지식](image/optical-character-recognition/undefined/README.md)
+    * [SOTA 알고리즘 찾기](image/optical-character-recognition/undefined/sota.md)
+    * [ParSeq 셋업](image/optical-character-recognition/undefined/parseq.md)
   * [아이디어 & 프로젝트](image/optical-character-recognition/and.md)
 
 ## 📽 Video
