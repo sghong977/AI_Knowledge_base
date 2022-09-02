@@ -24,3 +24,8 @@
 * [Action Detection](video/action-detection/README.md)
   * [관련 지식](video/action-detection/undefined.md)
   * [아이디어 & 프로젝트](video/action-detection/and.md)
+
+***
+
+* [Errors](errors/README.md)
+  * [pip install errors](errors/pip-install-errors.md)
