@@ -29,3 +29,4 @@
 
 * [Errors](errors/README.md)
   * [pip install errors](errors/pip-install-errors.md)
+  * [git lfs (macOS)](errors/git-lfs-macos.md)

@@ -9,7 +9,23 @@
 
 Step 1. 데이터셋 셋업
 
+정리해서 구글드라이브에 올려둔게 있음. 여기서 다운 받음.
+
+[https://github.com/baudm/parseq/blob/main/Datasets.md](https://github.com/baudm/parseq/blob/main/Datasets.md)
+
+
+
 Step 2. github 코드와 pretrained model 가져와 실행확인
+
+그냥 알아서 pretrained 다운됨.
+
+```
+./test.py pretrained=parseq
+```
+
+
+
+
 
 Step 3. 코드 분석
 
