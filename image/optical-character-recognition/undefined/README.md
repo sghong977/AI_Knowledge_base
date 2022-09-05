@@ -14,7 +14,7 @@
 
 먼저 **텍스트가 있는 영역을 localization**한 다음에 해당 영역에 대해 **글자를 recognition**하여 'STARBUCKS RESERVE ROASTERY'라는 텍스트로 변환해야한다.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

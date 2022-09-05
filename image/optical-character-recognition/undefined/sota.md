@@ -31,7 +31,7 @@ huggingface에서 돌려볼 수 있다.
 
 {% embed url="https://huggingface.co/spaces/baudm/PARSeq-OCR" %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 그러면 이제 이 모델을 셋업하고 내가 적용하려는 데이터셋에서도 잘 동작하는지 확인해보자.
 

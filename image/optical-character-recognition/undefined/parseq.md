@@ -17,13 +17,15 @@ Step 1. 데이터셋 셋업
 
 Step 2. github 코드와 pretrained model 가져와 실행확인
 
-그냥 알아서 pretrained 다운됨.
+원래 huggingface에 pretrained model 파일이 git lfs로 올라가있던데 (받아보니까 bin file), 굳이 그걸 다운받지 않아도 괜찮았음.
+
+그냥 실행시에 'pretrained=parseq' 넣어주면 알아서 pretrained 다운됨.
 
 ```
 ./test.py pretrained=parseq
 ```
 
-
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>실행 확인.</p></figcaption></figure>
 
 
 
